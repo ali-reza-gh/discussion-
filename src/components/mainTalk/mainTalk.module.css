@@ -1,0 +1,90 @@
+.main {
+    padding-top: 25px;
+    background-color: #fff;
+    margin: 2px 5px;
+}
+
+.mainTalk {
+    display: flex;
+
+}
+
+.avatar img {
+    border-radius: 50%;
+    height: 50px;
+    margin-left: 33px;
+
+}
+
+.para {
+    margin-left: 20px;
+    line-height: 29px;
+    font-size: 18px;
+}
+
+.para p {
+    color: rgb(110, 110, 110);
+}
+
+
+.name {
+    display: flex;
+
+}
+
+.name span {
+    margin-left: 10px;
+    color: rgb(184, 175, 175);
+}
+
+.reply {
+    padding-left: 70px;
+    background-color: #fff;
+    margin: -2px 5px 5px 5px;
+}
+
+.Like {
+    display: flex;
+}
+
+.likeButton {
+    background-color: rgba(229, 229, 229, 0.507);
+    border-radius: 19px;
+    height: 38px;
+    width: 75px;
+    cursor: pointer;
+    border-style: none;
+    margin: 7px 0px 10px 100px;
+    font-size: large;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.likeButton img{
+    height: 25px;
+    margin-right: 8px;
+
+
+}
+
+.likedButton {
+    background-color: rgb(0, 132, 255);
+    border-radius: 19px;
+    height: 38px;
+    width: 75px;
+    cursor: pointer;
+    border-style: none;
+    margin: 7px 0px 10px 100px;
+    color: #fff;
+    font-size: large;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.likedButton img{
+    height: 25px;
+    margin-right: 8px;
+
+}

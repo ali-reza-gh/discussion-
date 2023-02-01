@@ -1,0 +1,12 @@
+.ReplyButton{
+
+color: rgb(9, 66, 255);
+background-color:rgba(0, 0, 0, 0);
+border: none;
+font-weight: bolder;
+font-size: larger;
+height: 34px;
+width: 70px;
+cursor: pointer;
+margin: 7px 0px 10px -50px;
+}

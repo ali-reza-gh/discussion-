@@ -1,0 +1,33 @@
+.header{
+
+background-color: rgb(250 , 251, 253);
+margin:2px 5px;
+display: flex;
+align-items: center;
+height: 110px;
+
+
+
+}
+
+.header img{
+    border-radius: 50%;
+    height: 50px;
+    margin-left:33px ;
+
+}
+
+.header input{
+    width: 79%;
+    margin-left: 20px;
+    border-radius: 5px;
+    border: 2px rgba(197, 197, 197, 0.485) solid;
+    height: 50px;
+    font-size: 17px;
+    padding: 20px;
+    
+
+}
+::placeholder{
+    color: rgb(184, 175, 175);
+}
